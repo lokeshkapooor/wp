@@ -4,7 +4,7 @@
 
 The Linux Foundation (LF) is a non-profit consortium dedicated to fostering the growth of Linux and collaborative open-source software development. For web developers, the Linux Foundation is a crucial resource hub, hosting and supporting critical projects like Node.js, Kubernetes, Let's Encrypt, and the Linux kernel itself – technologies that underpin much of the modern web. Beyond project hosting, the LF offers extensive training and certification programs designed to equip professionals with verifiable, vendor-neutral skills in these essential open-source technologies. This article explores the training opportunities, free trials, and discount offers available through the Linux Foundation, particularly relevant for web developers looking to enhance their expertise.
 
-[![Linux Foundation|200x50](https://raw.githubusercontent.com/lokeshkapooor/wp/refs/heads/main/img/cta1.png)](https://www.leadpages.com/)
+[![Linux Foundation](https://raw.githubusercontent.com/lokeshkapooor/wp/refs/heads/main/img/cta1.png | width=200)](https://www.leadpages.com/)
 
 ## 2. Overview
 
